@@ -24,7 +24,8 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This is a how know project to create a microservice in nest.js
+Main purpose to improve the backend skills.
 
 ## Installation
 
